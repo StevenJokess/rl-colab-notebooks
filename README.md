@@ -17,7 +17,7 @@ Documentation: https://stable-baselines3.readthedocs.io/
 - Pre-training using Behavior Cloning [Colab Notebook](https://colab.research.google.com/github/StevenJokess/rl-colab-notebooks/blob/sb3/pretraining.ipynb)
 - RL Baselines3 Zoo [Colab Notebook](https://colab.research.google.com/github/StevenJokess/rl-colab-notebooks/blob/sb3/rl-baselines-zoo.ipynb)
 - Hindsight Experience Replay [Colab Notebook](https://colab.research.google.com/github/StevenJokess/rl-colab-notebooks/blob/sb3/stable_baselines_her.ipynb)
-- Advanced Saving and Loading [Colab Notebook](https://colab.research.google.com/github/SStevenJokess/rl-colab-notebooks/blob/sb3/advanced_saving_loading.ipynb)
+- Advanced Saving and Loading [Colab Notebook](https://colab.research.google.com/github/StevenJokess/rl-colab-notebooks/blob/sb3/advanced_saving_loading.ipynb)
 
 ## RL Tutorial JNRR19
 
